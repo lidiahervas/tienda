@@ -75,7 +75,7 @@ endif;
     <?= $this->fetch('script') ?>
 </head>
 <body>
-    <header>
+    <!-- <header>
         <div class="container text-center">
             <a href="https://cakephp.org/" target="_blank" rel="noopener">
                 <img alt="CakePHP" src="https://cakephp.org/v2/img/logos/CakePHP_Logo.svg" width="350" />
@@ -238,6 +238,8 @@ endif;
                 </div>
             </div>
         </div>
-    </main>
+    </main> -->
+
+    <h1>Hola Mundo</h1>
 </body>
 </html>
